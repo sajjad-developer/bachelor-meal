@@ -1,0 +1,59 @@
+{
+  "name": "bachelor-meal",
+  "version": "1.0.0",
+  "main": "bachelor-meal.js",
+  "scripts": {
+    "test": "vitest run",
+    "start": "node bachelor-meal.js"
+  },
+  "bin": {
+    "bachelor-meal": "./bachelor-meal.js"
+  },
+  "keywords": [
+    "cli",
+    "recipe",
+    "pdf",
+    "cooking",
+    "home-cooking",
+    "single-serving",
+    "easy-recipes",
+    "beginner-friendly",
+    "meal-planning",
+    "solo-cooks",
+    "quick-meals",
+    "cooking-tool",
+    "recipes-pdf"
+  ],
+  "author": {
+    "name": "Md Sajjad Hossen",
+    "url": "https://eco-starfish-coder.com"
+  },
+  "license": "MIT",
+  "description": "The ultimate CLI tool for solo home cooks! 🍽️✨ Open cooking recipe PDFs with ease—perfect for beginners who want quick, delicious meals without the hassle. Cook effortlessly today!",
+  "dependencies": {
+    "chalk": "^5.4.1",
+    "commander": "^14.0.0",
+    "find-package-json": "^1.2.0",
+    "open": "^8.4.2"
+  },
+  "type": "module",
+  "files": [
+    "bachelor-meal.js",
+    "package.json",
+    "recipes"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sajjad-developer/bachelor-meal.git"
+  },
+  "homepage": "https://github.com/sajjad-developer/bachelor-meal#readme",
+  "funding": {
+    "url": "https://eco-starfish-coder.com/tip"
+  },
+  "bugs": {
+    "url": "https://github.com/sajjad-developer/bachelor-meal/issues"
+  },
+  "devDependencies": {
+    "vitest": "^3.2.4"
+  }
+}
