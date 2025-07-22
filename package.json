@@ -34,7 +34,7 @@
     "chalk": "^5.4.1",
     "commander": "^14.0.0",
     "find-package-json": "^1.2.0",
-    "open": "^8.4.2"
+    "open": "^10.2.0"
   },
   "type": "module",
   "files": [
