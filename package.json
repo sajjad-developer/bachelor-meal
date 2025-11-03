@@ -54,6 +54,6 @@
     "url": "https://github.com/sajjad-developer/bachelor-meal/issues"
   },
   "devDependencies": {
-    "vitest": "^3.2.4"
+    "vitest": "^4.0.6"
   }
 }
